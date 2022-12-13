@@ -1,0 +1,4 @@
+baseURL = 'https://jesteibice.com/'
+languageCode = 'en-us'
+title = 'Јесте и Биће'
+theme = 'blowfish'
